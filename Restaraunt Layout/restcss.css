@@ -1,0 +1,146 @@
+* {
+    font-family: 'Josefin Sans' , sans-serif;
+    box-sizing: border-box;
+}
+
+#topper {
+    background-image: url("images/lemon.jfif");
+    background-size: cover;
+    height: 600px;
+    padding-bottom: 50px;
+}
+
+li {
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 5px;
+}
+
+#headlist {
+    float: right;
+}
+
+.social {
+    height: 30px;
+    margin-right: 30px;
+}
+#cart {
+    height: 20px;
+}
+
+#main {
+    height: 200px;
+    width: 60%;
+    padding-top: 150px;
+    padding-left: 50px;
+}
+
+h1 {
+    font-size: 65px;
+    width: 50%;
+    word-wrap: break-word;
+}
+
+form {
+    display: block;
+}
+
+.button {
+    color: white;
+    border: 2px orange solid;
+    background-color: orange;
+    margin-top: 30px;
+    padding: 5px;
+}
+
+a:link {
+    text-decoration: none;
+    color:white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+a:active: {
+    color: white;
+}
+
+#aboutus {
+    background-image: url("images/desserts.jpg");
+    background-size: cover;
+    height: 500px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+#abtustext {
+    float: right;
+    width: 55%;
+    height: 300px;
+    margin-right: 180px;
+}
+
+h2 {
+    font-size: 25px;
+    color: orange;
+}
+
+h5 {
+    font-size: 55px;
+    word-wrap: break-word;
+}
+
+#order {
+    padding-top: 25px;
+    background: #f0ead6;
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.menuimg {
+    height: 200px;
+
+}
+
+#booking {
+    text-align: center;
+    background-image: url("images/teatime.jfif");
+    background-size: cover;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+#hours1 {
+    float: left;
+    margin-left: 100px;
+}
+
+#hours2 {
+    float: right;
+    margin-right: 100px;
+}
+
+#call {
+    height: 40px;
+}
+
+#carlin {
+    height: 150px;
+}
+
+#testimonials {
+    text-align: center;
+    padding-top: 25px;
+    background-color: #eeeeee;
+    padding-bottom: 25px;
+}
+
+#rating {
+    height: 40px;
+}
